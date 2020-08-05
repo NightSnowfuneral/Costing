@@ -1,0 +1,37 @@
+html,body,.app,.loginDiv{
+	height:100%;
+	width:100%
+	}
+.loginDiv{
+	background: url(../images/login.jpg) top left repeat;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../images/login.jpg', sizingMethod='crop'); /* IE6-8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/login.jpg', sizingMethod='crop')";
+}
+.login{
+		position:absolute;
+		top:50%;
+		left:50%;
+		width:350px;
+		
+		margin:-250px 0 0 -250px;
+	}
+
+.login-name{
+		padding-bottom:20px	
+		}
+.login-name h1{
+			
+		}
+.login_box{
+		
+	}
+.login_textbx{
+	padding:0 5px;
+}
+.button-sum .submit_btn{
+	display:block;
+	margin:0 auto;
+	width:100%;
+	
+}
+
